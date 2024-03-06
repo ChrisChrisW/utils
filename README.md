@@ -19,6 +19,16 @@
 
 ---
 
+# To add in :
+- https://www.credly.com/org/scrum-org/badge/professional-scrum-master-i-psm-i
+- https://www.credly.com/badges/cf9abe6d-3775-4cdb-a3c2-3cabb4eb675a#gs_q=Professional+Scrum+Master%E2%84%A2+I+%28PSM+I%29
+- https://ielts.org/
+- https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/
+- https://learn.microsoft.com/fr-fr/credentials/certifications/exams/az-900/
+- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/
+- https://learn.microsoft.com/fr-fr/credentials/certifications/exams/dp-203/
+
+
 # Learning
 
 ## Computer Science
